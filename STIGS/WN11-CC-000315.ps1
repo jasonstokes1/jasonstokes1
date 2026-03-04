@@ -1,6 +1,6 @@
  <#
 .SYNOPSIS
-    This script enforces the WN11-CC-000315 security requirement by disabling the "Always install with elevated privileges" feature. 
+    This PowerShell script enforces the WN11-CC-000315 security requirement by disabling the "Always install with elevated privileges" feature. 
 It programmatically sets the AlwaysInstallElevated registry value to 0 in both the local machine and Current User hives to prevent
 unauthorized privilege escalation via Windows Installer (.msi) files.
 
