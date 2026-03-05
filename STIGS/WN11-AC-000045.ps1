@@ -23,7 +23,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN11-AU-000500).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN11-AC-000045).ps1 
 #>
 
 # Set screen saver timeout to 900 seconds (15 minutes)
