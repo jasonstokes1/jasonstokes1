@@ -7,12 +7,12 @@
     Author          : Jason Stokes
     LinkedIn        : https://www.linkedin.com/in/jason-stokes-50144518a/
     GitHub          : https://github.com/jasonstokes1
-    Date Created    : 2026-03-02
-    Last Modified   : 2024-03-04
+    Date Created    : 03-02-2026
+    Last Modified   : 03-04-2026
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN11-CC-000315
+    STIG-ID         : WN11-AU-000050
 
 .TESTED ON
     Date(s) Tested  : 
