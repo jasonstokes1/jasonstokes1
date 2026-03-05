@@ -24,7 +24,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN11-AU-000500).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN11-CC-000315).ps1 
 #>
 
 # Define the registry paths
