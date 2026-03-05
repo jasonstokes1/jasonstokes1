@@ -1,15 +1,15 @@
  <#
 .SYNOPSIS
     This PowerShell script enforces the WN11-CC-000315 security requirement by disabling the "Always install with elevated privileges" feature. 
-It programmatically sets the AlwaysInstallElevated registry value to 0 in both the local machine and Current User hives to prevent
-unauthorized privilege escalation via Windows Installer (.msi) files.
+    It programmatically sets the AlwaysInstallElevated registry value to 0 in both the local machine and Current User hives to prevent -
+    unauthorized privilege escalation via Windows Installer (.msi) files.
 
 .NOTES
     Author          : Jason Stokes
     LinkedIn        : https://www.linkedin.com/in/jason-stokes-50144518a/
     GitHub          : https://github.com/jasonstokes1
-    Date Created    : 2026-03-02
-    Last Modified   : 2024-03-03
+    Date Created    : 03-02-2026
+    Last Modified   : 03-03-2026
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
