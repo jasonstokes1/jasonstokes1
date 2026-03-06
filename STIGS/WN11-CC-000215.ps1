@@ -1,8 +1,8 @@
 <#
 .SYNOPSIS
     This PowerShell script enforces the DISA STIG requirement WN11-CC-000215 for Windows 11. 
-    It disables the AutoPlay/AutoRun feature across all drive types to prevent the automatic -
-    execution of potentially malicious code or scripts when external media (such as USB flash drives -
+    It disables the AutoPlay/AutoRun feature across all drive types to prevent the automatic
+    execution of potentially malicious code or scripts when external media (such as USB flash drives
     or external hard drives) is connected to the system.
     
 .NOTES
