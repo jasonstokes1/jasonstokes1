@@ -13,6 +13,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Ransomware Attack)](https://github.com/jasonstokes1/Technical-Incident-Report-The-Buyer---Incident-Response-Centre/blob/main/README.md)**
 
+- **[Threat Hunting Scenario (Active Directory Breach Investigation)](https://github.com/jasonstokes1/Active-Directory-Breach-Investigation-EmberForge)**
+
 - **[Threat Hunting Scenario (Business Email Compromise Investigation)](https://github.com/jasonstokes1/Business-Email-Compromise-Investigation)**
 
 <hr/>
