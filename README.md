@@ -11,9 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jasonstokes1/threat-hunting-scenario-tor)**
 
-- **[Threat Hunting Scenario (Akira Ransomware Attack)](https://github.com/jasonstokes1/Technical-Incident-Report-The-Buyer---Incident-Response-Centre/blob/main/README.md)**
+- **[Threat Hunting Scenario (Ransomware Attack)](https://github.com/jasonstokes1/Technical-Incident-Report-The-Buyer---Incident-Response-Centre/blob/main/README.md)**
 
-- **[Business Email Compromise Investigation](https://github.com/jasonstokes1/Business-Email-Compromise-Investigation)**
+- **[Threat Hunting Scenario (Business Email Compromise Investigation)](https://github.com/jasonstokes1/Business-Email-Compromise-Investigation)**
 
 <hr/>
 
