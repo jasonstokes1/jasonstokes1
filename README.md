@@ -16,6 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Geo Map 1 - Global Auth](https://github.com/jasonstokes1/sentinel-siem-geo-map-global-auth)**
 - **[Geo Map 2 - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)**
 - **[Geo Map 3 - Data Exfiltration](https://github.com/jasonstokes1/sentinel-siem-geo-map-data-exfil)**
+- **[Geo Map 4 - Inbound Threat Intel](https://github.com/jasonstokes1/sentinel-siem-geo-map-inbound-threat-intel)**
 <hr/>
 
 ## 🤳 Connect With Me
