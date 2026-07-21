@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🛰️ Microsoft Sentinel SIEM
 
 - **[Geo Map 1 - Global Auth](https://github.com/jasonstokes1/sentinel-siem-geo-map-global-auth)**
-
+- **[Geo Map 2 - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)**
 <hr/>
 
 ## 🤳 Connect With Me
