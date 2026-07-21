@@ -11,6 +11,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jasonstokes1/threat-hunting-scenario-tor)**
 
+## 🛰️ Microsoft Sentinel SIEM
+
+- **[Geo Map 1 - Global Auth](https://github.com/jasonstokes1/sentinel-siem-geo-map-global-auth)**
+
 <hr/>
 
 ## 🤳 Connect With Me
