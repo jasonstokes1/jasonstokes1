@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jasonstokes1/threat-hunting-scenario-tor)**
+* [**MySQL Database Ransom — Incident Response & DFIR Case Study**](https://github.com/jasonstokes1/mysql-ransom-incident-response)
 
 ## 🛰️ Microsoft Sentinel SIEM
 
