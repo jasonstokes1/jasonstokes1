@@ -1,16 +1,15 @@
 # <a href="https://www.linkedin.com/in/jason-stokes-50144518a/">Jason Stokes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I've put into enhancing security operations and processes!
 
+## 🤖 Agentic AI Security Engineering
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)**
+- **[Agentic AI SOC Analyst](https://github.com/jasonstokes1/agentic-ai-soc-analyst)** — Natural-language threat hunting across Azure Log Analytics and Microsoft Defender. Plans its own KQL queries, maps findings to MITRE ATT&CK with graded confidence, and isolates compromised hosts only after human authorization. Demonstrated across macOS, Windows PowerShell, Visual Studio, and Linux.
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jasonstokes1/threat-hunting-scenario-tor)**
-* [**MySQL Database Ransom — Incident Response & DFIR Case Study**](https://github.com/jasonstokes1/mysql-ransom-incident-response)
+- **[MySQL Database Ransom — Incident Response & DFIR Case Study](https://github.com/jasonstokes1/mysql-ransom-incident-response)**
 
 ## 🛰️ Microsoft Sentinel SIEM
 
@@ -18,20 +17,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Geo Map 2 - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)**
 - **[Geo Map 3 - Data Exfiltration](https://github.com/jasonstokes1/sentinel-siem-geo-map-data-exfil)**
 - **[Geo Map 4 - Inbound Threat Intel](https://github.com/jasonstokes1/sentinel-siem-geo-map-inbound-threat-intel)**
+
+## ⚠️ Vulnerability Management
+
+- **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)**
+
 <hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jason Stokes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://www.linkedin.com/in/jason-stokes-50144518a/Jason___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+[linkedin]: https://www.linkedin.com/in/jason-stokes-50144518a/
