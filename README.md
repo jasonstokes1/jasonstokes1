@@ -21,6 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jasonstokes1/programmatic-vulnerability-remediations)**
 
 <hr/>
 
