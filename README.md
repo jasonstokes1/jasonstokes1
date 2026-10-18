@@ -15,6 +15,7 @@ I investigate real alerts end to end in Microsoft Sentinel and Defender for Endp
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jasonstokes1/threat-hunting-scenario-tor)**
 - **[MySQL Database Ransom — Incident Response & DFIR Case Study](https://github.com/jasonstokes1/mysql-ransom-incident-response)**
 - **[SOC Analyst Investigations — LOGN Pacific Internship](https://github.com/jasonstokes1/soc-analyst-portfolio)** - Three alert-to-verdict investigations in Sentinel and Defender: password spraying (including a detection gap I found and closed with a new rule), a ransomware attack chain with device isolation, and a Linux tool-download case.
+- **[Operation ECHOLEAK — AI Prompt Injection & Copilot Data Exfiltration](https://github.com/jasonstokes1/Operation-ECHOLEAK)** - Traced an indirect prompt injection from a phishing attachment through hijacked M365 Copilot tool calls to zero-click data exfiltration via rendered image links, across Sentinel's M365, Copilot and Entra logs. Scoped 13 exposed files, built baseline detections, and classified the incident by ruling out account and configuration compromise.
 
 ## 🛰️ Microsoft Sentinel SIEM
 
