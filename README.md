@@ -28,7 +28,6 @@ I investigate real alerts end to end in Microsoft Sentinel and Defender for Endp
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)** - Built a vulnerability management program from scratch: policy, stakeholder buy-in, change-board approval, and Tenable authenticated scans. Six remediation rounds cut vulnerabilities 81% (26 → 5) and resolved 100% of critical findings.
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jasonstokes1/programmatic-vulnerability-remediations)** - Reusable PowerShell and BASH scripts that fix common Windows and Linux vulnerabilities found in Tenable scans.
 
 <hr/>
 
