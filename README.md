@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jason-stokes-50144518a/">Jason Stokes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-**Cybersecurity Analyst Intern @ LOGN Pacific** · Aspiring SOC Analyst
+**Cybersecurity Analyst Intern @ LOG(N) Pacific** · Aspiring SOC Analyst
 
 I investigate real alerts end to end in Microsoft Sentinel and Defender for Endpoint: triage, KQL hunting, verdict, and containment. Highlights: building custom detection rules, finding and closing a gap in my own detections, remediating High-severity vulnerabilities with Tenable, and an AI agent that hunts threats in plain English.
 
@@ -19,15 +19,15 @@ I investigate real alerts end to end in Microsoft Sentinel and Defender for Endp
 
 ## 🛰️ Microsoft Sentinel SIEM
 
-- **[Geo Map - Global Auth](https://github.com/jasonstokes1/sentinel-siem-geo-map-global-auth)**
-- **[Geo Map - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)**
-- **[Geo Map - Data Exfiltration](https://github.com/jasonstokes1/sentinel-siem-geo-map-data-exfil)**
-- **[Geo Map - Inbound Threat Intel](https://github.com/jasonstokes1/sentinel-siem-geo-map-inbound-threat-intel)**
+- **[Geo Map - Global Auth](https://github.com/jasonstokes1/sentinel-siem-geo-map-global-auth)** - Workbook mapping where remote logons (RDP and network) come from, sized by attempts and colored by successes, to spot a successful login from a country the business doesn't operate in. Built on `DeviceLogonEvents` with KQL geolocation.
+- **[Geo Map - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)** - Maps where endpoints connect out to, with Microsoft and Azure traffic filtered out, to surface possible command-and-control servers contacted by many devices at once.
+- **[Geo Map - Data Exfiltration](https://github.com/jasonstokes1/sentinel-siem-geo-map-data-exfil)** - Maps outbound data volume by destination using Azure flow logs (`NTANetAnalytics`), to show how much data is leaving the network and where it's going.
+- **[Geo Map - Inbound Threat Intel](https://github.com/jasonstokes1/sentinel-siem-geo-map-inbound-threat-intel)** - Joins a live threat-intelligence feed against accepted network traffic to show known-malicious IPs that actually got in, not just ones that tried.
 
 ## ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jasonstokes1/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)** - Built a vulnerability management program from scratch: policy, stakeholder buy-in, change-board approval, and Tenable authenticated scans. Six remediation rounds cut vulnerabilities 81% (26 → 5) and resolved 100% of critical findings.
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jasonstokes1/programmatic-vulnerability-remediations)** - Reusable PowerShell and BASH scripts that fix common Windows and Linux vulnerabilities found in Tenable scans.
 
 <hr/>
 
