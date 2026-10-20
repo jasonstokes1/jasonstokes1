@@ -23,6 +23,7 @@ I investigate real alerts end to end in Microsoft Sentinel and Defender for Endp
 - **[Geo Map - Outbound Connections](https://github.com/jasonstokes1/sentinel-siem-geo-map-outbound-c2)** - Maps where endpoints connect out to, with Microsoft and Azure traffic filtered out, to surface possible command-and-control servers contacted by many devices at once.
 - **[Geo Map - Data Exfiltration](https://github.com/jasonstokes1/sentinel-siem-geo-map-data-exfil)** - Maps outbound data volume by destination using Azure flow logs (`NTANetAnalytics`), to show how much data is leaving the network and where it's going.
 - **[Geo Map - Inbound Threat Intel](https://github.com/jasonstokes1/sentinel-siem-geo-map-inbound-threat-intel)** - Joins a live threat-intelligence feed against accepted network traffic to show known-malicious IPs that actually got in, not just ones that tried.
+- **[Geo Map - Admin Operations](https://github.com/jasonstokes1/sentinel-siem-geo-map-admin-ops)** - Designed independently from a raw `AzureActivity` schema: maps where Azure admin actions (starting VMs, running commands, changing settings) come from, colored by failure rate, to catch a stolen admin credential probing its permissions.
 
 ## ⚠️ Vulnerability Management
 
