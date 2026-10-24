@@ -28,6 +28,7 @@ I investigate real alerts end to end in Microsoft Sentinel and Defender for Endp
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/jasonstokes1/Vulnerability-Management-Program/tree/main)** - Built a vulnerability management program from scratch: policy, stakeholder buy-in, change-board approval, and Tenable authenticated scans. Six remediation rounds cut vulnerabilities 81% (26 → 5) and resolved 100% of critical findings.
+- **[RDP Vulnerability Remediation: Find, Prove, Fix](https://github.com/jasonstokes1/rdp-vulnerability-remediation)** - Traced Tenable findings on an internet-facing Windows server to 3,435 failed RDP logins in Sentinel, rebuilt the same weaknesses on my own Azure VM, and fixed them with PowerShell and patching (High vulnerabilities 5 → 0, verified by rescan). Then locked RDP down with a network security group, cutting unsolicited internet connections from 229 to 0.
 
 <hr/>
 
